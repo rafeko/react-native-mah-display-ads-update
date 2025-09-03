@@ -1,7 +1,7 @@
 {
   "name": "react-native-mah-display-ads-update",
   "version": "1.0.0",
-  "author": "ngocnk99 <ngocnk99@gmail.com> (https://github.com/ngocnk99)",
+  "author": "rafeko",
   "description": "React Native Google Ads Admob is an easy way to monetize mobile apps with targeted, in-app advertising.",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -9,7 +9,7 @@
   "types": "lib/typescript/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngocnk99/react-native-google-ads-ui19.git"
+    "url": "git+https://github.com/rafeko/react-native-mah-display-ads-update.git"
   },
   "license": "Apache-2.0",
   "keywords": [
@@ -178,7 +178,7 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/ngocnk99/react-native-google-ads-ui19/issues"
+    "url": "https://github.com/rafeko/react-native-mah-display-ads-update/issues"
   },
-  "homepage": "https://github.com/ngocnk99/react-native-google-ads-ui19#readme"
+  "homepage": "https://github.com/rafeko/react-native-mah-display-ads-update#readme"
 }
